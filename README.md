@@ -30,9 +30,7 @@ traversal of the tree. The second line should contain the keys of the vertices i
 of the tree. The third line should contain the keys of the vertices in the post-order traversal of the tree.
 <br/>
 <br/>
-Time Limits:
-language   C C++ Java Python   C#   Haskell JavaScript Ruby Scala
-time (sec) 1 1    12     6    1.5     2          6      6    12
+Time Limits: Python - 6 seconds
 <br/>
 <br/>
 Memory Limit: 512MB.
