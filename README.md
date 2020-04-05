@@ -40,15 +40,25 @@ Memory Limit: 512MB.
 <br/>
 Sample 1.
 Input:
+<br/>
 5
+<br/>
 4 1 2
+<br/>
 2 3 4
+<br/>
 5 -1 -1
+<br/>
 1 -1 -1
+<br/>
 3 -1 -1
+<br/>
 Output:
+<br/>
 1 2 3 4 5
+<br/>
 4 2 1 3 5
+<br/>
 1 3 2 5 4
 <br/>
 <br/>
